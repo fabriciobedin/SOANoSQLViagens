@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "viagens-c8e49",
+  "private_key_id": "c87807dfbe07dda1e640a7de25d8b01f5c41c5c5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1zXCBw6wBqKzq\nDP1xmGBw9B71Qy5WPWvJy3jXpcH6Epu3/EZF1f7XC79X4BK6foCLAZ4cG/lvk7KP\nrkedihBz+/D1EITesxBotJfI+ThTvj7AJE9KBy9A1MZ8Up8JCef16Sqdy3Vv3f//\nI2C7txAGKkPTdIIj3+t8pyWOLJxxJm3Jhuju043W43WHXnfLnXuDQlAVZ5ScASQm\n7HJOGHqrTcbnAmldHceSMjaJvBeJgtuzYo+0GWTI/S+sMgQMbxLVefjPRHQMTrlp\nW/eNGFKn8yA/9+AZLl+c18D0OwW/ELR+lXD1TNnTIYliWtnbbTNgnFHt4B6Sp8Xf\nKR0E2I9TAgMBAAECggEAaeQLD8oEucKhVIHUbQGvypqmHXzP1HNaAON+szxcy2dj\nQ7qww6RtFpxFCs38mptsC4sZqI2yr4Z7jqyYEe6EvsmUA2lnur7ZY+MsNWbTpBM/\nQXLkq92bbEuCgI8vCni2nsj8hYQoFsxbeyQEB9IMh0q+zr8hvfuCkcxZV4IsbMpV\n8kVbvLvwVr/mf+V2cOzSVZkWcFv0R1mRAtHlWjhlC0C39qLPLduGH3hbZStQJyLQ\n7Ge2A+W5FqE3x1H6YLARtE+31pOk/8VYLduzk2mDbFgprxlYlPnLnmmZ4Szc9l0r\ndkQTR64jzmS55yv/y6ABV7MzOF0HgXvpQcNd3l2xYQKBgQDcNnc8xOtzrZcXvL1Y\n9w/rEXiR0bHp2FLdipTJqCEDZNh/GH/YZxsKuYGgCoHDLcbB7UXjJBk5Gm8YB8xJ\nek4HbA7fpL2Kq23nB/aEbGK8VkjQYuB+zjSArUoC5mtxe+lJrXSVoQkn6UIejEk+\nNE66ilhMxEqvjqXU3Z5sf330HwKBgQDTWPzao5dgL5Lv4xFszBuV9FO1dLRgCC6O\nGWmM77MQj6Ci8FGmf2wAuQudrRUBegBYccs22lZNWJbZKTNrM6iUfWTmh7lLKbVW\nV7aCE2V3RNhipZFws8Tit4GPu9bVq04IzHa3W3G7U23jT+0htF9Uppek1Vk8sz0T\nApVy/1WeTQKBgDgG23tolocN6V0utfYGldQ207g149AdK6gV9BkCX7PfWn2rnAtQ\n4D5wSByRz8X6xZDdb2SE8K3onc89XKptJaEZywb3gQng58tZ6UxzzwMf6NKr9XYN\nvKnobOYj/b4XypjmOr0/BXdUD3B6PMBIyqcHP8P4RRA5eNOZtw7fuQn9AoGASZxS\n5SvZS20GdnrV1Nj6Oq5QgYDWWiQ/YsrDEo1iBsCfqGCfb6gty8qnmxFvoYYGnMd1\nifNd366dS6GoAQyLCLzr6ccX6G/sctg1/vQWgQX/f8w+7cwPJQ/ZFmDMILt7gGEG\ncDJvWFlkiqmJ5BVYprknVAfi/ttGyFo8B0ObZHkCgYAXYEchJcF4obDv116EPry9\n+ggV3Z7OPXWlVzGDk99IY1sqflVAAfVjBYgMUC+w26zdRLktLgMIbiFbexhtOgfy\nO/kY5lJOC3CVxKZTmG3mw2pm7ccihdewJyi3kI3FZy9KMll+wgbM7jHgcMlp/qew\nYdQM0az8IOuoqoKEj0D3rw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "viagens@viagens-c8e49.iam.gserviceaccount.com",
+  "client_id": "104174876174273399585",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/viagens%40viagens-c8e49.iam.gserviceaccount.com"
+}
