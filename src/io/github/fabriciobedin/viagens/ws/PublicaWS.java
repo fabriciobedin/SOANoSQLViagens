@@ -6,7 +6,7 @@ public class PublicaWS {
 
 	public static void main(String[] args) {
 		ViagemWS ws = new ViagemWS();
-		String url = "http://localhost:8080/viagens";
+		String url = "http://localhost:8084/viagens";
 		Endpoint.publish(url, ws);
 
 	}

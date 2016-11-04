@@ -59,9 +59,8 @@ public class ViagemDAO {
 					VIAGENS.clear();
 					while (iterator.hasNext()){
 						DataSnapshot internalData = iterator.next();
-						internalData.getValue(Viagem.class);
 						System.out.println("laço: "+internalData.getValue());
-						Viagem viagem = new Viagem();
+						Viagem viagem = internalData.getValue(Viagem.class);
 						VIAGENS.put(internalData.getKey(), viagem);
 					}
 				}
