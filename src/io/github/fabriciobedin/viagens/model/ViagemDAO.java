@@ -88,5 +88,19 @@ public class ViagemDAO {
 		listViagens.addAll(VIAGENS.values());
 		return listViagens;
 	}
+	
+	public void insereViagem(Viagem viagem){
+		ref.child(""+VIAGENS.size()).setValue(viagem);
+	}
+	
+
+	public void removeViagem(String key) {
+		ref.child(key).removeValue();
+		
+	}
+	
+	public void atualizaViagem(String key, Viagem viagem){
+		ref.child(key).setValue(viagem);
+	}
 
 }
